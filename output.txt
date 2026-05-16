@@ -1,0 +1,7 @@
+Time taken: 0.12 seconds
+Matches found: 3
+Hashes not found: 0
+
+Match found - Word: qwerty, Hash (SHA1): b1b3773a05c0ed0176787a4f1574ff0075f7521e
+Match found - Word: welcome, Hash (SHA1): c0b137fe2d792459f26ff763cce44574a5b5ab03
+Match found - Word: test, Hash (MD5): 098f6bcd4621d373cade4e832627b4f6
